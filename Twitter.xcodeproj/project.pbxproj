@@ -13,6 +13,7 @@
 		6EBCF52B21DF07FC00451C03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EBCF52921DF07FC00451C03 /* Main.storyboard */; };
 		6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */; };
 		6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EBCF54D21E71F9400451C03 /* Launch Screen.storyboard */; };
+		DA995FC625E1B99600F21123 /* twitter_assets in Resources */ = {isa = PBXBuildFile; fileRef = DA995FC525E1B99600F21123 /* twitter_assets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6EBCF54D21E71F9400451C03 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		872C2D82F41D5A5D2A920E9E /* Pods_Twitter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Twitter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2D685C92646819A9A0DC30C /* Pods-Twitter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Twitter.release.xcconfig"; path = "Pods/Target Support Files/Pods-Twitter/Pods-Twitter.release.xcconfig"; sourceTree = "<group>"; };
+		DA995FC525E1B99600F21123 /* twitter_assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = twitter_assets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */,
 				6EBCF52521DF07FC00451C03 /* AppDelegate.swift */,
 				37D29B8521F90E3400984A88 /* Assets.xcassets */,
+				DA995FC525E1B99600F21123 /* twitter_assets */,
 				6EBCF53121DF07FE00451C03 /* Info.plist */,
 			);
 			path = Twitter;
@@ -152,6 +155,7 @@
 				6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */,
 				37D29B8621F90E3400984A88 /* Assets.xcassets in Resources */,
 				6EBCF52B21DF07FC00451C03 /* Main.storyboard in Resources */,
+				DA995FC625E1B99600F21123 /* twitter_assets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
